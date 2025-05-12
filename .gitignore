@@ -1,0 +1,4 @@
+bin/*
+.idea
+fake-api/vendor
+fake-api/.idea
